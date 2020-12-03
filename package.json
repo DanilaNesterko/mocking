@@ -1,0 +1,14 @@
+{
+    "name": "DanilaServer",
+    "version": "1.0.0",
+    "description": "Fake API for testing",
+    "main": "index.js",
+    "scripts": {
+      "json:server": "json-server --watch db.json"
+    },
+    "author": "Danila<klassivend870@gmail.com>",
+    "license": "ISC",
+    "dependencies": {
+      "json-server": "^0.16.3"
+    }
+  }
